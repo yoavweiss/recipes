@@ -3,10 +3,10 @@
 ## Ingredients
 
 * 5g of dried yeast or 20g of fresh yeast
-* 1 table spoon of brown sugar
-* 1 table spoon of salt
-* 2 table spoons of olive oil.
-* 1 kg of T45 flour (and a bit more flour to work the dough)
+* 1 tablespoon of brown sugar
+* 1 tablespoon of salt
+* 2 tablespoons of olive oil.
+* 1 kg of flour (and a bit more flour to work the dough)
 * ~680ml of lukewarm water (~40°C)
 
 ## Processing model
@@ -17,7 +17,7 @@
 
 2. Put the flour in a large bowl, add the yeast, and start adding water little by little, while kneading everything to a dough.
 
-3. Once you ball of dough is a bit formed, dissipate the tablesppon of salt in some water and add it to the mix. Continue kneading.
+3. Once your ball of dough is a bit formed, dissipate the tablespoon of salt in some water and add it to the mix. Continue kneading.
 
 4. Add 2 tablespoons of olive oil to the mix and continue kneading. Add in more water as you go.
 
