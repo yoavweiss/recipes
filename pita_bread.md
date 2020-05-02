@@ -21,18 +21,19 @@
 
 4. Add 2 tablespoons of olive oil to the mix and continue kneading. Add in more water as you go.
 
-5. At some point, the mix feels too wet and you may think you got it wrong. Keep kneading until the mixture is smooth. Add more water as needed.
+5. At some point, the mix feels too wet and you may think you got it wrong. Fear not!! Keep kneading until the mixture is smooth. Add more water as needed, once the mixture have dried out a bit.
 
-6. Once the ball of dough is smooth, cover the bowl with th ball of dough in it with a wet cloth, and place it in a luke warm place for a couple of hours.
+6. Once the ball of dough is smooth, firm and a bit sticky, you're almost done! cover the bowl with the ball of dough in it with a wet cloth, and place it in a luke warm place for a couple of hours.
 
 ### Pitas!
 
-1. Preheat your oven to 250°C, with a steel over tray in it, in the upper part of the oven.
+1. Preheat your oven to 250°C, with a steel oven tray in it, placed in the upper part.
 
 2. While there's dough in the bowl:
+
     1. Cut a fistful of dough and turn it into a ball.
 
-    2. Flatten the ball using a rolling pin, till it's about ~0.5cm thick.
+    2. Flatten the ball using a rolling pin, until it's about ~0.5cm thick.
 
     3. Place it on a floured surface and let it rise for ~10 minutes.
 
