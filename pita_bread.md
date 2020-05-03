@@ -34,8 +34,8 @@
 5. At some point, the mix feels too wet and you may think you got it wrong. Fear not!! Keep kneading until the mixture is smooth. Add more water as needed, once the mixture have dried out a bit.
 
 <picture>
-  <source srcset="images/pita/ready_for_salt.webp" type="image/webp">
-  <img src="images/pita/ready_for_salt.jpg">
+  <source srcset="images/pita/moist.webp" type="image/webp">
+  <img src="images/pita/moist.jpg">
 </picture>
 
 6. Once the ball of dough is smooth, firm and a bit sticky, you're almost done!
