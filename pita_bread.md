@@ -7,7 +7,7 @@
 * 1 tablespoon of salt
 * 2 tablespoons of olive oil.
 * 1 kg of flour (and a bit more flour to work the dough)
-* ~680ml of lukewarm water (~40°C)
+* ~620-680ml of lukewarm water (~40°C)
 
 ## Processing model
 
@@ -15,15 +15,42 @@
 
 1. Take the yeast, the tablespoon of sugar and a bit of water and mix them together in a glass. Give the yeast ~10 minutes to react & foam.
 
+<picture>
+  <source srcset="images/pita/yeast.webp" type="image/webp">
+  <img src="images/pita/yeast.jpg">
+</picture>
+
 2. Put the flour in a large bowl, add the yeast, and start adding water little by little, while kneading everything to a dough.
 
 3. Once your ball of dough is a bit formed, dissipate the tablespoon of salt in some water and add it to the mix. Continue kneading.
+
+<picture>
+  <source srcset="images/pita/ready_for_salt.webp" type="image/webp">
+  <img src="images/pita/ready_for_salt.jpg">
+</picture>
 
 4. Add 2 tablespoons of olive oil to the mix and continue kneading. Add in more water as you go.
 
 5. At some point, the mix feels too wet and you may think you got it wrong. Fear not!! Keep kneading until the mixture is smooth. Add more water as needed, once the mixture have dried out a bit.
 
-6. Once the ball of dough is smooth, firm and a bit sticky, you're almost done! cover the bowl with the ball of dough in it with a wet cloth, and place it in a luke warm place for a couple of hours.
+<picture>
+  <source srcset="images/pita/ready_for_salt.webp" type="image/webp">
+  <img src="images/pita/ready_for_salt.jpg">
+</picture>
+
+6. Once the ball of dough is smooth, firm and a bit sticky, you're almost done!
+
+<picture>
+  <source srcset="images/pita/dough_almost_done.webp" type="image/webp">
+  <img src="images/pita/dough_almost_done.jpg">
+</picture>
+
+7. Cover the bowl with the ball of dough in it with a wet cloth, and place it in a luke warm place for a couple of hours.
+
+<picture>
+  <source srcset="images/pita/dough_is_done.webp" type="image/webp">
+  <img src="images/pita/dough_is_done.jpg">
+</picture>
 
 ### Pitas!
 
