@@ -1,3 +1,4 @@
+<base target="_blank"/>
 # Pitas
 
 ## Ingredients
