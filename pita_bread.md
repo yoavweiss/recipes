@@ -22,7 +22,7 @@
 
 2. Put the flour in a large bowl, add the yeast, and start adding water little by little, while kneading everything to a dough.
 
-3. Once your ball of dough is a bit formed, dissipate the tablespoon of salt in some water and add it to the mix. Continue kneading.
+3. Once the ball of dough is a bit formed, dissipate the tablespoon of salt in some water and add it to the mix. Continue kneading.
 
 <picture>
   <source srcset="images/pita/ready_for_salt.webp" type="image/webp">
@@ -54,7 +54,14 @@
 
 ### Pitas!
 
-1. Preheat your oven to 250°C, with a steel oven tray in it, placed in the upper part.
+1. After a couple of hours, the dough has risen.
+
+<picture>
+  <source srcset="images/pita/dough_risen.webp" type="image/webp">
+  <img src="images/pita/dough_risen.jpg">
+</picture>
+
+2. Preheat your oven to 250°C, with a steel oven tray in it, placed in the upper part.
 
 2. While there's dough in the bowl:
 
@@ -64,15 +71,28 @@
 
     3. Place it on a floured surface and let it rise for ~10 minutes.
 
+<picture>
+  <source srcset="images/pita/dough_as_pitas.webp" type="image/webp">
+  <img src="images/pita/dough_as_pitas.jpg">
+</picture>
+
 3. Once the oven is done preheating, switch it to grill mode.
 
 4. Throw the pita bread in the oven, ~4 at a time, for ~5 minutes
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6BVLbGUPj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 5. You can take them out once they develop a slightly brown hue and an air pocket.
 
+<picture>
+  <source srcset="images/pita/pitas_in_oven.webp" type="image/webp">
+  <img src="images/pita/pitas_in_oven.jpg">
+</picture>
 
+6. Eat up!!
 
-
-
-
+<picture>
+  <source srcset="images/pita/all_done.webp" type="image/webp">
+  <img src="images/pita/all_done.jpg">
+</picture>
 
