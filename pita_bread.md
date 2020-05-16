@@ -80,7 +80,7 @@
 
 4. Throw the pita bread in the oven, ~4 at a time, for ~5 minutes
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t6BVLbGUPj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Video](https://www.youtube.com/watch?v=t6BVLbGUPj8)
 
 5. You can take them out once they develop a slightly brown hue and an air pocket.
 
