@@ -1,4 +1,3 @@
-<base target="_blank"/>
 # Pitas
 
 ## Ingredients
@@ -81,7 +80,7 @@
 
 4. Throw the pita bread in the oven, ~4 at a time, for ~5 minutes
 
-[Video](https://www.youtube.com/watch?v=t6BVLbGUPj8)
+<a target="_blank" href="https://www.youtube.com/watch?v=t6BVLbGUPj8">Video</a>
 
 5. You can take them out once they develop a slightly brown hue and an air pocket.
 
