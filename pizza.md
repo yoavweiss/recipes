@@ -1,12 +1,12 @@
 # Pizza!!
 ## Ingredients (4-5 medium pizzas)
-* 5g of dried yeast or 20g of fresh yeast
+* 8g of dried yeast (1.5 teaspoons) or 30g of fresh yeast
 * 1 tablespoon of brown sugar
 * 1 tablespoon of salt
 * 9 tablespoons of olive oil
 * 600g of T45/all purpose flour
 * 150g of fine-grained semolina (and some more to work the dough later)
-* X ml of lukewarm water (~40°C)
+* ~500 ml of lukewarm water (~40°C)
 
 ## Processing model
 ### Preparing the dough
