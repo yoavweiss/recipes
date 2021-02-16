@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 5g of dried yeast or 20g of fresh yeast
+* 5g of [instant yeast](https://shop.kingarthurbaking.com/items/saf-red-instant-yeast-16-oz) or 20g of fresh yeast
 * 1 tablespoon of brown sugar
 * 1 tablespoon of salt
 * 2 tablespoons of olive oil.
