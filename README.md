@@ -6,4 +6,5 @@ Feel free to try 'em out, open issues if something is not clear or PR anything t
 
 ## What's in here?
 
-* [Pita bread](https://github.com/yoavweiss/recipes/blob/master/pita_bread.md#pitas)
+* [Pita bread](https://github.com/yoavweiss/recipes/blob/main/pita_bread.md#pitas)
+* [Pizza](https://github.com/yoavweiss/recipes/blob/main/pizza.md)
