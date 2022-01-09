@@ -1,6 +1,6 @@
 # Pitas
 ## Visual version (French)
-![infographic](pitas.jpg)
+![infographic](images/pita_recipe.jpg)
 
 ## Wordy version
 ### Ingredients
