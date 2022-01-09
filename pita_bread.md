@@ -20,7 +20,7 @@
 
 <picture>
   <source srcset="images/pita/yeast.webp" type="image/webp">
-  <img src="images/pita/yeast.jpg">
+  <img src="images/pita/yeast.jpg" alt="Foaming yeast in a cup">
 </picture>
 
 2. Put the flour in a large bowl, add the yeast, and start adding water little by little, while kneading everything to a dough.
@@ -29,7 +29,7 @@
 
 <picture>
   <source srcset="images/pita/ready_for_salt.webp" type="image/webp">
-  <img src="images/pita/ready_for_salt.jpg">
+  <img src="images/pita/ready_for_salt.jpg" alt="Somewhat formed dough, but still rather dry">
 </picture>
 
 4. Add 2 tablespoons of olive oil to the mix and continue kneading. Add in more water as you go.
@@ -38,21 +38,21 @@
 
 <picture>
   <source srcset="images/pita/moist.webp" type="image/webp">
-  <img src="images/pita/moist.jpg">
+  <img src="images/pita/moist.jpg" alt="Dough ball that looks a bit too moist">
 </picture>
 
 6. Once the ball of dough is smooth, firm and a bit sticky, you're almost done!
 
 <picture>
   <source srcset="images/pita/dough_almost_done.webp" type="image/webp">
-  <img src="images/pita/dough_almost_done.jpg">
+  <img src="images/pita/dough_almost_done.jpg" alt="Smooth and silky dough">
 </picture>
 
 7. Cover the bowl with the ball of dough in it with a wet cloth, and place it in a luke warm place for a couple of hours.
 
 <picture>
   <source srcset="images/pita/dough_is_done.webp" type="image/webp">
-  <img src="images/pita/dough_is_done.jpg">
+  <img src="images/pita/dough_is_done.jpg" alt="Ball of dough, ready to start the rising phase">
 </picture>
 
 #### Pitas!
@@ -61,7 +61,7 @@
 
 <picture>
   <source srcset="images/pita/dough_risen.webp" type="image/webp">
-  <img src="images/pita/dough_risen.jpg">
+  <img src="images/pita/dough_risen.jpg" alt="Dough more than doubled in size, ready to be baked">
 </picture>
 
 2. Preheat your oven to 250°C, with a steel oven tray in it, placed in the upper part.
@@ -76,7 +76,7 @@
 
 <picture>
   <source srcset="images/pita/dough_as_pitas.webp" type="image/webp">
-  <img src="images/pita/dough_as_pitas.jpg">
+  <img src="images/pita/dough_as_pitas.jpg" alt="Dough is now in pita form">
 </picture>
 
 3. Once the oven is done preheating, switch it to grill mode.
@@ -89,13 +89,13 @@
 
 <picture>
   <source srcset="images/pita/pitas_in_oven.webp" type="image/webp">
-  <img src="images/pita/pitas_in_oven.jpg">
+  <img src="images/pita/pitas_in_oven.jpg" alt="Pitas in the oven, puffed with an air pocket and starting to get a bit brownish in color">
 </picture>
 
 6. Eat up!!
 
 <picture>
   <source srcset="images/pita/all_done.webp" type="image/webp">
-  <img src="images/pita/all_done.jpg">
+  <img src="images/pita/all_done.jpg" alt="A pile of pitas, ready to be eaten!">
 </picture>
 
