@@ -1,6 +1,9 @@
 # Pitas
+## Visual version (French)
+![infographic](pitas.jpg)
 
-## Ingredients
+## Wordy version
+### Ingredients
 
 * 5g of [instant yeast](https://shop.kingarthurbaking.com/items/saf-red-instant-yeast-16-oz) or 20g of fresh yeast
 * 1 tablespoon of brown sugar
@@ -9,9 +12,9 @@
 * 1 kg of flour (and a bit more flour to work the dough)
 * ~620-680ml of lukewarm water (~40°C)
 
-## Processing model
+### Processing model
 
-### Preparing the dough
+#### Preparing the dough
 
 1. Take the yeast, the tablespoon of sugar and a bit of water and mix them together in a glass. Give the yeast ~10 minutes to react & foam.
 
@@ -52,7 +55,7 @@
   <img src="images/pita/dough_is_done.jpg">
 </picture>
 
-### Pitas!
+#### Pitas!
 
 1. After a couple of hours, the dough has risen.
 
