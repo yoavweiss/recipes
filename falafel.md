@@ -5,7 +5,7 @@ It's the bestest! This requires some planning ahead, as you'd need to soak the c
 * 500g of chickpeas - soaked for 36 hours with water are double their volume, with 1 teaspoon of baking soda.
 * 1 large onion.
 * 4 garlic cloves.
-* 1 bundle of parley.
+* 1 bundle of parsley.
 * Bonus: 1 bundle of coriander.
 * 1 teaspoon of paprika.
 * 1.5 teaspoons of cumin.
